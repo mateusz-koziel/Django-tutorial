@@ -1,2 +1,2 @@
 # Django-tutorial
-Tutorial from Django documentation.
+Tutorial from Django documentation
